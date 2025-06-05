@@ -1,1 +1,0 @@
-# gcit-alumni-user-service
